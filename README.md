@@ -4,7 +4,6 @@
 I build web apps with **React, Vue, Next and Nuxt**,  
 poke **Python** on the backend when nobody is looking,  
 and occasionally fix bugs I definitely did not create ✌️
-_________
 
 ## Quick facts
 - Based in Finland
