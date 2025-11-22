@@ -1,16 +1,30 @@
-## Hi there 👋
+# x-bananer
 
-<!--
-**x-bananer/x-bananer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Ksenia Shlenskaia - a software developer who builds frontend 
+that is clean, intuitive and a little bit satisfying 👩🏻‍💻
 
-Here are some ideas to get you started:
+I build web apps with React, Vue, Next and Nuxt,  
+poke Python on the backend when nobody is looking,  
+and occasionally fix bugs I definitely did not create ✌️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Based in Finland.  
+Studying ICT.
+Speak Russian, English and heroic intermediate Finnish.
+
+## What I do
+- Turn any requirements into interfaces that make sense.
+- Make tricky UI logic behave.
+- Keep code clean enough so future me won't come to haunt present me.
+
+## Portfolio
+I keep my favourite projects here:
+**https://x-bananer.github.io/portfolio**
+
+## Tech (the short version)
+React · Vue · Next · Nuxt · TypeScript
+Python enough to get into trouble
+React Native and Capacitor because mobile had to happen someday  
+Git, Linux, Vite, Webpack, and any other tool that screams loudest
+
+## If you ever feel like saying hi
+[LinkedIn](https://www.linkedin.com/in/kseniia-shlenskaia-502004353/)
