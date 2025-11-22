@@ -1,4 +1,4 @@
-## Hi, I’m Ksenia Shlenskaia 🍌 
+## Hi, I’m Ksenia 🍌 
 **A software developer who builds frontend that is clean, intuitive and a little bit satisfying 👩🏻‍💻**
 
 I build web apps with **React, Vue, Next and Nuxt**,  
