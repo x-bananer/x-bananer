@@ -4,7 +4,6 @@
 I build web apps with **React, Vue, Next and Nuxt**,  
 poke **Python** on the backend when nobody is looking,  
 and occasionally fix bugs I definitely did not create ✌️
-
 _________
 
 ## Quick facts
@@ -27,7 +26,7 @@ React Native and Capacitor because mobile had to happen someday
 Git, Linux, Vite, Webpack, and any other tool that screams loudest 
 
 ## Portfolio
-My strongest projects are on a corporate GitLab under NDA, but I keep a few of my favourite public ones here:  
+My strongest projects are on a corporate GitLab and under NDA, but I keep a few of my favourite public ones here:  
 **https://x-bananer.github.io/portfolio**
 ______________
 
