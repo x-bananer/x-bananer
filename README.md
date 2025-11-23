@@ -1,5 +1,5 @@
 ## Hi, I’m Ksenia 🍌 
-**A software developer who builds frontend 👩🏻‍💻**
+**I’m a software developer who builds frontend 👩🏻‍💻**
 
 I build web apps with **React, Vue, Next and Nuxt**,  
 and poke **Python** on the backend when nobody is looking ✌️
