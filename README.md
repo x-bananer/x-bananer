@@ -7,7 +7,7 @@ and poke **Python** on the backend when nobody is looking ✌️
 ## Quick facts
 - Based in Finland
 - Studying ICT
-- Speak Russian, English and a little bit Finnish
+- Speak Russian, English and some Finnish
 
 ## What I do
 - Turn any requirements into interfaces that make sense
