@@ -1,14 +1,13 @@
 ## Hi, I’m Ksenia 🍌 
-**A software developer who builds frontend that is clean, intuitive and a little bit satisfying 👩🏻‍💻**
+**A software developer who builds frontend 👩🏻‍💻**
 
 I build web apps with **React, Vue, Next and Nuxt**,  
-poke **Python** on the backend when nobody is looking,  
-and occasionally fix bugs I definitely did not create ✌️
+and poke **Python** on the backend when nobody is looking ✌️
 
 ## Quick facts
 - Based in Finland
 - Studying ICT
-- Speak Russian, English and heroic intermediate Finnish
+- Speak Russian, English and a little bit Finnish
 
 ## What I do
 - Turn any requirements into interfaces that make sense
