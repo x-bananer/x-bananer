@@ -1,8 +1,8 @@
-## Hi, I’m Ksenia 
+## Hi, I’m Ksenia 🍌
 **I’m a software developer who builds frontend 👩🏻‍💻**
 
 I build web applications with **React, Vue, Next and Nuxt**,  
-and also work with **Python** on backend and R&D-related tasks. ✌️
+and also work with **Python** on backend and R&D-related tasks ✌️
 
 ## Quick facts
 - Based in Finland
