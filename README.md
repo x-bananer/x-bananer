@@ -1,27 +1,28 @@
-## Hi, I’m Ksenia 🍌 
+## Hi, I’m Ksenia 
 **I’m a software developer who builds frontend 👩🏻‍💻**
 
-I build web apps with **React, Vue, Next and Nuxt**,  
-and poke **Python** on the backend when nobody is looking ✌️
+I build web applications with **React, Vue, Next and Nuxt**,  
+and also work with **Python** on backend and R&D-related tasks. ✌️
 
 ## Quick facts
 - Based in Finland
-- Studying ICT
+- Studying Information and Communications Technology (ICT)
 - Speak Russian, English and some Finnish
 
 ## What I do
-- Turn any requirements into interfaces that make sense
-- Make tricky UI logic behave
-- Keep code clean enough so future me won't come to haunt present me
+- Approach frontend tasks with a structured, engineering mindset
+- Translate product and technical requirements into clear, usable interfaces
+- Implement and maintain complex UI logic
+- Write maintainable code with long-term support in mind
 
 ## Tech
 React · Vue · Next · Nuxt · TypeScript
 
-Python enough to get into trouble
+Python · SQL · FastAPI · Flask
 
-React Native and Capacitor because mobile had to happen someday
+React Native · Capacitor
 
-Git, Linux, Vite, Webpack, and any other tool that screams loudest 
+Git · Linux · Vite · Webpack
 
 ## Portfolio
 My strongest projects are on a corporate GitLab and under NDA, but I keep a few of my favourite public ones here:  
