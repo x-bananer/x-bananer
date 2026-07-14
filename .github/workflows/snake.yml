@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: x-bananer
           outputs: |
-            dist/github-snake.svg?color_snake=%235A4B81&color_dots=%23F8F4FF,%23F3E8FF,%23D9ECFF,%23C9D6FF,%236A4B93
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=%23F28FAD&color_dots=%231F2335,%232A2F45,%23404C6B,%239CCFD8,%23EAD7FF
+            dist/github-snake.svg?color_snake=%237BC47F&color_dots=%23F8F4FF,%23FFD6E0,%23F8E7A4,%23C9D6FF,%23D9F7BE
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=%237BC47F&color_dots=%231F2335,%23F28FAD,%23F6D365,%239CCFD8,%23B8F2C8
 
       - name: Deploy snake to output branch
         uses: peaceiris/actions-gh-pages@v4
