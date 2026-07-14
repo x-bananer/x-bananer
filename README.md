@@ -67,10 +67,19 @@ Web development · Helsinki · BEng
 
 * *In Search of Schrodinger's Cat*
 
-## GitHub
+## GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=x-bananer&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&bg_color=F8F4FF&title_color=6A4B93&text_color=4C5A7A&icon_color=F28FAD" alt="GitHub stats">
+<table>
+  <tr>
+    <td>
+      <img height="165" src="https://github-readme-stats.shion.dev/api?username=x-bananer&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&bg_color=F8F4FF&title_color=6A4B93&text_color=4C5A7A&icon_color=F28FAD" alt="GitHub stats">
+    </td>
+    <td>
+      <img height="165" src="https://streak-stats.demolab.com?user=x-bananer&hide_border=true&background=FFF7D6&ring=D4A72C&fire=D4A72C&currStreakLabel=8A6A00&sideLabels=6F6545&dates=A08F63&currStreakNum=8A6A00&sideNums=8A6A00" alt="GitHub streak stats">
+    </td>
+  </tr>
+</table>
 
 </div>
