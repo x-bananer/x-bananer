@@ -61,13 +61,14 @@ Web development · Helsinki · BEng
 - *Clean Architecture*
 - *Designing Data-Intensive Applications*
 - *Operating Systems: Three Easy Pieces*
+- *Eteenpäin! Suomen kielen harjoituksia ylemmille taitotasoille*
 
-<p>
+<!-- <p>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="18" src="https://img.shields.io/badge/%2B-FFD6E0?style=flat&color=FFD6E0" alt="+">
 </p>
 
-* *In Search of Schrodinger's Cat*
+* *In Search of Schrodinger's Cat* -->
 
 ## GitHub Activity
 
