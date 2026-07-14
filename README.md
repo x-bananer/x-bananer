@@ -71,6 +71,6 @@ Web development · Helsinki · BEng
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.shion.dev/api?username=x-bananer&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&bg_color=00000000&title_color=9CCFD8&text_color=C6D0F5&icon_color=F28FAD" alt="GitHub stats">
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=x-bananer&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&bg_color=F8F4FF&title_color=6A4B93&text_color=4C5A7A&icon_color=F28FAD" alt="GitHub stats">
 
 </div>
