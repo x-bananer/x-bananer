@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<img src="./flowers-long.png" alt="Top banner">
 
 # Ksenia Shlenskaia
 
