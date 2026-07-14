@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="./flowers.png" alt="Flowers banner">
+
 # Ksenia Shlenskaia
 
-Software developer since 2021.
+**Software developer since 2021**
 
 Web development · Helsinki · BEng
 
@@ -75,4 +77,5 @@ Web development · Helsinki · BEng
 <img height="165" src="https://streak-stats.demolab.com?user=x-bananer&hide_border=true&background=FFF7D6&ring=D4A72C&fire=D4A72C&currStreakLabel=8A6A00&sideLabels=6F6545&dates=A08F63&currStreakNum=8A6A00&sideNums=8A6A00" alt="GitHub streak stats">
 
 </div>
+
 
