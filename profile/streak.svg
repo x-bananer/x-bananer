@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="165" viewBox="0 0 495 165" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub streak stats placeholder</title>
+  <desc id="desc">Temporary placeholder shown until GitHub Actions generates the real streak stats card.</desc>
+  <rect width="495" height="165" rx="12" fill="#FFF7D6"/>
+  <circle cx="62" cy="54" r="18" fill="#D4A72C"/>
+  <path d="M62 30 L70 49 L90 49 L74 61 L80 82 L62 69 L44 82 L50 61 L34 49 L54 49 Z" fill="#FFF1A8"/>
+  <text x="110" y="58" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#8A6A00">Streak stats loading</text>
+  <text x="110" y="88" font-family="Arial, sans-serif" font-size="14" fill="#6F6545">GitHub Actions will generate the real card after the next push.</text>
+  <text x="110" y="110" font-family="Arial, sans-serif" font-size="14" fill="#6F6545">This file exists so the README preview does not render a broken image.</text>
+</svg>
